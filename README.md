@@ -1,7 +1,7 @@
 ### Welcome to My Project ###
 ### Project Name: Hiring Speakers for Tech Seminar ###
 
-Project Live Site Link : 
+Project Live Site Link : https://tech-seminar-hasibul1610.netlify.app/
 
 Project Overview 
     >> In this mordern world, Online Education is getting more popular to everyone. Specially in this pandamic situation Most of our study depend on Online. Youtube is a very popular and free of cost platform to learn anything.
