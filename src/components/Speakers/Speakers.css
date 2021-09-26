@@ -1,0 +1,20 @@
+
+.speakers-container{
+    background-color: #F4F3F1;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.speaker-header{
+    
+    border-left: 4px solid #FF5733;
+    color: #696969;
+}
+.speaker-header h2{
+    padding: 20px 30px;
+}
+.speakers{
+    display: grid;
+    grid-gap:15px;
+    grid-template-columns: repeat(3 , 1fr);
+    margin-top: 25px;
+}
